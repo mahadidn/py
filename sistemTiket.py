@@ -1,4 +1,4 @@
-#program
+#program sistem pembelian tiket pesawat
 import os
 
 while True:
@@ -147,9 +147,6 @@ for data in dictData:
     print (f"{NO:<5}|{KODEPESAWAT:<12}|{NAMAPESAWAT:<17}|{KODETUJUAN:^11}|{DAERAHTUJUAN:<13}|{HARGATIKET:<11}|{JUMLAHTIKET:^12}|{DISKON:^8}|{TOTALBAYAR:<11}|")
 print (110*"-")
     
-#created by Mahadi Dwi Nugraha
 
-print ("\n\n===Isi Data===")
-print (dictData)
-    
+#https://github.com/mahadidn    
 
